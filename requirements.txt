@@ -1,0 +1,8 @@
+langchain-core
+langgraph
+faiss-cpu
+sentence-transformers
+python-dotenv
+numpy
+pydantic
+google-genai
